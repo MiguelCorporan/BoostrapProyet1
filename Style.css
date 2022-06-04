@@ -1,0 +1,78 @@
+*{}
+.ba{
+    background-color: rgb(228, 228, 228);
+ }
+.Shage{
+    width: 100%;
+    height: 10vh;
+    background-color: aquamarine;
+}
+
+.baja{
+    margin-bottom: 3rem;
+}
+
+.baja2{
+    margin-top: 3rem;
+}
+
+
+.all{
+    width: 100%;
+    height: 100%;
+}
+
+.Card1{
+    border-radius: 10px;
+    width: 4%;
+    height: 3%;
+}
+
+.Secciones{
+    width: 100%;
+    height: 100vh;
+}
+
+.Imgs{
+    width: 100%;
+    height: 100%;
+}
+
+.AllTarjet{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 25%;
+    
+}
+
+.Contenido{
+    width:90%;
+    /* height: 55%; */
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    border: 1px solid rgb(122, 122, 122);
+    border-radius: 5px;
+    padding-left: 3px;
+    
+    }
+
+    .Contenido .card{
+        margin-top: 5px;
+        border: 1px solid rgb(0, 0, 0);
+        margin-left: 10px;
+    }
+    
+    
+    .Contenido::-webkit-scrollbar{
+            width: 7px;
+            background-color: #dddd;
+            border-radius: 5px;
+    }
+    
+    .Contenido::-webkit-scrollbar-thumb{
+        background-color: #333;
+        border-radius: 10px;
+    }
+    

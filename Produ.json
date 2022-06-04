@@ -1,0 +1,153 @@
+[
+    {
+        "precio" : 100,
+        "id" : 1,
+        "title" : "Cafe",
+        "ImagenesApi" : "./Fotos/cafe.jpg"
+    },
+    {
+        "precio" : 500,
+        "id" : 2,
+        "title" : "Cafe con leche",
+        "ImagenesApi" : "./Fotos/cafe con leche.jpg"
+    },
+    {
+        "precio" : 5500,
+        "id" : 3,
+        "title" : "mini despensa",
+        "ImagenesApi" : "./Fotos/mini despensa.jpg"
+    },
+    {
+        "precio" : 800,
+        "id" : 4,
+        "title" : "Hojuelitas",
+        "ImagenesApi" : "./Fotos/hojuelitas.jpg"
+    },
+    {
+        "precio" : 1000,
+        "id" : 5,
+        "title" : "Casco",
+        "ImagenesApi" : "./Fotos/casco.jpg"
+    },
+    {
+        "precio" : 5300,
+        "id" : 6,
+        "title" : "Comida exp",
+        "ImagenesApi" : "./Fotos/comida expres.png"
+    },
+    {
+        "precio" : 300,
+        "id" : 7,
+        "title" : "Agua",
+        "ImagenesApi" : "./Fotos/agua.png"
+    },
+    {
+        "precio" : 900,
+        "id" : 8,
+        "title" : "Aceite",
+        "ImagenesApi" : "./Fotos/aceite.jpg"
+    },
+    {
+        "precio" : 4000,
+        "id" : 9,
+        "title" : "Crema de afeitar",
+        "ImagenesApi" : "./Fotos/crema de afeitar.jpg"
+    },
+    {
+        "precio" : 3200,
+        "id" : 10,
+        "title" : "Shampo",
+        "ImagenesApi" : "./Fotos/Shampo.png"
+    },
+    {
+        "precio" : 1100,
+        "id" : 11,
+        "title" : "Lb cafe",
+        "ImagenesApi" : "./Fotos/lb cafe.jpg"
+    },
+    {
+        "precio" : 2300,
+        "id" : 12,
+        "title" : "Pijama",
+        "ImagenesApi" : "./Fotos/pijama.png"
+    },
+    {
+        "precio" : 2500,
+        "id" : 13,
+        "title" : "zapatos",
+        "ImagenesApi" : "./Fotos/zapatos.jpg"
+    },
+    {
+        "precio" : 3400,
+        "id" : 14,
+        "title" : "Camisa blanca",
+        "ImagenesApi" : "./Fotos/camisa blanca.png"
+    },
+    {
+        "precio" : 5600,
+        "id" : 15,
+        "title" : "Chaqueta",
+        "ImagenesApi" : "./Fotos/chaqueta.jpg"
+    },
+    {
+        "precio" : 1500,
+        "id" : 16,
+        "title" : "Corbata",
+        "ImagenesApi" : "./Fotos/corbata.jpg"
+    },
+    {
+        "precio" : 4800,
+        "id" : 17,
+        "title" : "Cafe",
+        "ImagenesApi" : "./Fotos/lb cafe.jpg"
+    },
+    {
+        "precio" : 3900,
+        "id" : 18,
+        "title" : "Pantalon",
+        "ImagenesApi" : "./Fotos/pantalon.jpg"
+    },
+    {
+        "precio" : 1200,
+        "id" : 19,
+        "title" : "camisa",
+        "ImagenesApi" : "./Fotos/camisa.jpg"
+    },
+    {
+        "precio" : 600,
+        "id" : 20,
+        "title" : "Perfume",
+        "ImagenesApi" : "./Fotos/perdume.jpg"
+    },
+    {
+        "precio" : 6500,
+        "id" : 21,
+        "title" : "Carne de cerdo",
+        "ImagenesApi" : "./Fotos/carne de cerdo.png"
+    },
+    {
+        "precio" : 50,
+        "id" : 22,
+        "title" : "Pan Melon",
+        "ImagenesApi" : "./Fotos/panMelon.jpg"
+    },
+    {
+        "precio" : 1300,
+        "id" : 23,
+        "title" : "Ron",
+        "ImagenesApi" : "./Fotos/ron.jpg"
+    },
+    {
+        "precio" : 300,
+        "id" : 24,
+        "title" : "Atun",
+        "ImagenesApi" : "./Fotos/atun.jpg"
+    },
+    {
+        "precio" : 850,
+        "id" : 25,
+        "title" : "Pollo",
+        "ImagenesApi" : "./Fotos/pollo.jpg"
+    }
+
+]
